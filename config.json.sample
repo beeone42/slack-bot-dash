@@ -1,0 +1,6 @@
+{
+    "token":"xoxb-......",
+    "group":"mytestchannel",
+    "open_door_base":"http://server.com/api/open.php?id="
+}
+
